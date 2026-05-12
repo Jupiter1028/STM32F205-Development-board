@@ -26,5 +26,6 @@
   - 所有 I/O 引脚均以 2.54mm 排针引出
   - 板载电源指示灯（PWR LED）
 
-
+如果你需要PCB或者项目设计，可以联系我.  zhylear@gmail.com
 A compact and multifunctional development board based on STM32F205RXT6, integrating Type-C power supply and commonly used peripherals, suitable for rapid prototyping and embedded learning.
+![联系我](images/WX.jpg) 
