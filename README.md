@@ -1,4 +1,5 @@
 > 一款基于 STM32F205RXT6 的紧凑型多功能开发板，集成 Type-C 供电与常用外设，适合快速原型开发与嵌入式学习。
+> A compact and multifunctional development board based on STM32F205RXT6, integrating Type-C power supply and commonly used peripherals, suitable for rapid prototyping and embedded learning.
 
 ![展示图](images/1.jpg) 
 ![展示图](images/2.jpg) 
